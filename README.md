@@ -1,17 +1,35 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Quick Paste App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Paste App** built with **React + Redux Toolkit**.  
+This app lets you **create, edit, delete, view, and share** text/code snippets instantly, with a clean UI and smooth UX.
 
-Currently, two official plugins are available:
+---
+🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 View Live App (https://quick-paste-app-nine.vercel.app/)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Quick-Paste-App
-"A simple and modern React-based Paste App to create, save, and share text snippets."
->>>>>>> 152cafb6d7ab8ed939ec9e14d533e697bc6ac904
+- 📝 **Create** new pastes with a title and content  
+- ✏️ **Edit** existing pastes anytime  
+- ❌ **Delete** unwanted pastes  
+- 👀 **View** pastes in a neat layout  
+- 🔗 **Share** pastes with a unique link  
+- 📱 **Responsive Design** – works on desktop, tablet, and mobile  
+- 🎨 **Modern UI** with glassmorphism & gradient theme  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (with Hooks)  
+- **Redux Toolkit** (state management)  
+- **React Router** (navigation & links)  
+- **Tailwind CSS** (UI & styling)  
+
+---
+### Clone the repo
+```bash
+git clone https://github.com/Himanshi8790-Sharma/Quick-Paste-App.git
+cd Quick-Paste-App
+
