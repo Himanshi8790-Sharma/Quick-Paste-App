@@ -4,9 +4,11 @@ A modern and responsive **Paste App** built with **React + Redux Toolkit**.
 This app lets you **create, edit, delete, view, and share** text/code snippets instantly, with a clean UI and smooth UX.
 
 ---
-🌐 Live Demo
+## 🔗 Live Demo  
 
-👉 View Live App (https://quick-paste-app-nine.vercel.app/)
+➡️ [Click Here]( https://quick-paste-app-nine.vercel.app/)
+
+---
 
 ## ✨ Features
 
